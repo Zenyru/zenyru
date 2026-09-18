@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/zenyru">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=730&text=Hello!%20I'm%20Seniru..." alt="Hello! I&#39;m Seniru..." />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=43C197&fontSize=54&height=90&width=730&text=Hello!%20I'm%20Seniru..." alt="Hello! I&#39;m Seniru..." />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=..............................................................................................." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=306B76&center=true&vCenter=true&width=900&height=44&lines=..............................................................................................." alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
