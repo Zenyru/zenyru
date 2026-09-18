@@ -48,5 +48,5 @@ Full Stack Developer And A Tech Enthusiast.
 ### • Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin" alt="Dev quote" />
 </p>
